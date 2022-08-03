@@ -1,2 +1,2 @@
-# `http://www.mqchinee.cf/randomvc.github.io/`
+# `https://mqchinee.github.io/randomvc/`
 **Генератор рандомных скринов с сервера Vanilla-Crafts. Количество скринов будет увеличиваться.**
